@@ -9,7 +9,6 @@
   },
   "devDependencies": {
     "content-wind": "latest",
-    "nuxt": "latest",
-    "@nuxthq/studio": "latest"
+    "nuxt": "latest"
   }
 }
